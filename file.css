@@ -1,0 +1,14 @@
+img {
+    height: 400px;
+    width: 400px;
+    
+} .tree {
+    display:flex;
+    justify-content: space-center;
+} body {
+    text-align:center;
+    background-color:cornsilk;
+} .hi {
+    margin-right:25px;
+    margin-left:25px;
+} 
